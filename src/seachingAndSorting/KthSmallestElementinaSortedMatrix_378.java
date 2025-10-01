@@ -1,3 +1,5 @@
+package seachingAndSorting;
+
 public class KthSmallestElementinaSortedMatrix_378 {
         public int kthSmallest(int[][] matrix, int k) {
             int n = matrix.length;
